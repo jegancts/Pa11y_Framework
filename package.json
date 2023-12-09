@@ -1,0 +1,12 @@
+{
+  "name": "pa11y",
+  "version": "6.0.1",
+  "description": "Pa11y is your automated accessibility testing pal",
+  "author": "Team Pa11y",
+ "engines": {
+    "node": ">=12"
+  },
+  "dependencies": {
+    "pa11y": "^6.0.1"
+  }
+}
